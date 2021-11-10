@@ -1,6 +1,6 @@
-## User Form Validation using RegEx
+## Form Validation using RegEx
 
-Form validations using Regular Expressions in JavaScript.
+User form validations using Regular Expressions in JavaScript.
 
 ## Live Preview
 
